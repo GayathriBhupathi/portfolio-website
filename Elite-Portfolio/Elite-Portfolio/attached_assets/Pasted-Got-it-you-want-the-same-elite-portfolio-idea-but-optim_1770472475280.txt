@@ -1,0 +1,363 @@
+Got it — you want the **same elite portfolio idea**, but **optimized for Replit (Replit AI / Replit Agent / Ghostwriter / Replit Deploy environment)** instead of Lovable.
+
+Replit works better when the prompt:
+
+* Mentions **tech stack**
+* Mentions **file structure**
+* Mentions **deployment readiness**
+* Mentions **frontend + optional backend**
+* Mentions **performance + loading**
+* Mentions **mobile responsiveness**
+* Mentions **how code should be organized**
+
+So I’ll **restructure your prompt → Replit-friendly engineering prompt** (not just design prompt).
+
+---
+
+# 🚀 FINAL MASTER PROMPT — REPLIT VERSION (COPY & PASTE)
+
+---
+
+## 🌟 PROJECT GOAL
+
+Build a **production-quality futuristic AI-themed portfolio website** for a Computer Science (Data Science) student using modern web development best practices.
+
+The website must be:
+
+* Fully responsive
+* Fast loading
+* Clean code structured
+* Easy to deploy from Replit
+* SEO optimized
+* Recruiter friendly
+* Futuristic but professional
+
+---
+
+## 👤 USER DETAILS
+
+Name: Gayathri Bhupathi
+Education: B.Tech Computer Science (Data Science) — 2022–2026
+Target Roles:
+
+* Data Analyst
+* Full Stack Developer
+* Entry Level Software Engineer
+
+Brand Message:
+Future data-driven engineer building real-world digital solutions.
+
+---
+
+## 🧰 TECH STACK REQUIREMENT
+
+Build using:
+
+Frontend:
+
+* HTML5
+* CSS3 (or Tailwind if easier)
+* JavaScript (Vanilla or React if Replit suggests)
+
+Optional (If Needed):
+
+* Node.js backend (only if required for contact form)
+
+Deployment:
+
+* Must run perfectly using Replit Run button
+* Must be ready for Replit Deploy
+
+---
+
+## 📁 PROJECT STRUCTURE
+
+Create clean folder structure:
+
+```
+/public OR /src
+  index.html
+  style.css OR tailwind config
+  script.js OR components
+
+/assets
+  images
+  icons
+
+/components (if React used)
+
+README.md
+```
+
+---
+
+## 🎨 DESIGN SYSTEM
+
+Theme:
+Futuristic AI Interface
+
+Color Mode:
+Dark Mode Default
+
+Accent Colors:
+Neon Blue
+Neon Purple
+Cyan Glow
+
+UI Style:
+
+* Glassmorphism cards
+* Smooth hover animations
+* Soft shadows
+* Gradient borders
+* Animated background grid OR particles
+
+If animations reduce performance → keep design but simplify animations.
+
+---
+
+## 🏠 HERO SECTION
+
+(No profile photo)
+
+Show:
+
+Gayathri Bhupathi
+
+Headline:
+Data Analyst | Full Stack Developer | AI & Data Science Enthusiast
+
+Tagline:
+Turning data into insights and building scalable digital experiences.
+
+Buttons:
+
+* View Projects
+* Download Resume
+* Contact Me
+
+Background:
+Animated AI grid OR neural network effect
+
+---
+
+## 👩‍💻 ABOUT SECTION
+
+Include:
+
+* Data Science specialization
+* Interest in AI and analytics
+* Internship experience
+* Real world problem solving mindset
+
+Strength Highlights:
+Problem Solving
+Communication
+Leadership
+Team Collaboration
+
+---
+
+## 🎓 EDUCATION
+
+B.Tech Computer Science (Data Science)
+Samskruti College of Engineering and Technology
+JNTUH Affiliated
+Graduation: 2026
+
+---
+
+## 🛠 SKILLS SECTION (INTERACTIVE IF POSSIBLE)
+
+Programming:
+Python
+C (Basic)
+
+Web:
+HTML
+CSS
+JavaScript
+
+Tools:
+VS Code
+Git
+GitHub
+MongoDB Atlas
+Salesforce
+Android Studio
+
+Domains:
+Data Analysis
+Web Development
+Android Development
+AI / ML Fundamentals
+
+---
+
+## 💼 EXPERIENCE SECTION (TIMELINE)
+
+Android Developer Intern — EduSkills
+Web Dev Intern — Prodigy InfoTech
+Web Dev Intern — Cognifiz Technologies
+Salesforce Virtual Intern
+Employability Training — Wadhwani
+
+Display using animated cards or timeline UI.
+
+---
+
+## 🚀 PROJECT SECTION (MOST IMPORTANT)
+
+Each project card must include:
+
+* Title
+* Description
+* Tech Stack Tags
+* Features List
+* GitHub Button
+
+---
+
+### Project 1 — AI Cosmetics Recommendation System
+
+Include:
+Deep learning skin analysis
+CNN → Xception improvement
+Accuracy optimization
+
+---
+
+### Project 2 — QR Code Generator Web App
+
+Include:
+Dynamic QR generation
+Responsive UI
+Frontend architecture
+
+---
+
+## 📊 GITHUB INTEGRATION
+
+GitHub Profile:
+[https://github.com/GayathriBhupathi](https://github.com/GayathriBhupathi)
+
+If possible:
+Fetch repos dynamically
+Else:
+Create manual project showcase
+
+---
+
+## 📜 CERTIFICATIONS
+
+Deloitte Data Analytics
+IBM Generative AI
+MongoDB Certification
+FutureSkills
+Wadhwani Employability
+
+---
+
+## 🏆 ACHIEVEMENTS
+
+Carrom Champion
+Hackathons
+Django Workshop
+Power BI Workshop
+
+---
+
+## 📄 RESUME SECTION
+
+Add:
+Resume Preview Area
+Download Resume Button
+
+(File will be uploaded later)
+
+---
+
+## 📞 CONTACT SECTION
+
+Email:
+[bhupathigarigayathri707@gmail.com](mailto:bhupathigarigayathri707@gmail.com)
+
+Phone:
++91 7093300841
+
+LinkedIn:
+[https://www.linkedin.com/in/gayathri-bhupathi-a08b6b261/](https://www.linkedin.com/in/gayathri-bhupathi-a08b6b261/)
+
+GitHub:
+[https://github.com/GayathriBhupathi](https://github.com/GayathriBhupathi)
+
+WhatsApp Contact Button
+
+---
+
+## ⚡ ADVANCED FEATURES (IF POSSIBLE)
+
+Scroll progress bar
+Dark / Light toggle
+Cursor glow effect
+AI chatbot placeholder
+
+---
+
+## 📱 RESPONSIVE REQUIREMENT
+
+Must work on:
+Desktop
+Tablet
+Mobile
+
+---
+
+## 🔍 SEO REQUIREMENTS
+
+Use keywords:
+Gayathri Bhupathi Portfolio
+Data Analyst Fresher Portfolio
+Full Stack Developer Student Portfolio
+
+Add meta tags.
+
+---
+
+## 🚀 PERFORMANCE REQUIREMENTS
+
+Optimize:
+Image loading
+CSS minification
+JS performance
+Mobile speed
+
+---
+
+## 🧾 FOOTER
+
+Add:
+Short professional statement
+Social icons
+Copyright
+
+---
+
+## 🎯 FINAL OUTPUT EXPECTATION
+
+Portfolio must:
+Look premium
+Feel futuristic
+Load fast
+Highlight projects strongly
+Impress recruiters
+
+---
+
+If you want, I can next create **Replit Super Version** like:
+
+🔥 Replit Prompt (React + Tailwind + Animations + GitHub API auto fetch)
+🔥 Replit Prompt (Simple HTML/CSS/JS — super safe and fast)
+🔥 Replit Prompt (Full Stack — Contact form working with backend)
+
+Just tell me 👍
